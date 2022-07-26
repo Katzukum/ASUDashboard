@@ -1,1 +1,2 @@
-streamlit
+streamlit~=1.11.0
+firebase_admin
