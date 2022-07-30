@@ -1,0 +1,296 @@
+Clan,Name,Class,ParagonLvl,CombatRating,Status,Resonance,DMG,HP,Image,Contribution
+AftershockUnitedGold,KeLP,Monk,116,2798,True,495,4297,58939,image,1055
+AftershockUnitedPrime,Ropen,Barbarian,12,2769,True,525,4393,50638,image,1130
+AftershockUnitedPrime,Smashmack,Monk,119,4031,True,5372,9715,119902,image,1005
+,Kilano,,,,False,,,,,
+AftershockUnitedPrime,ShadyZ,Wizard,124,3461,True,2620,6381,76685,image,1215
+AftershockUnitedPrime,Karissasunrise,Necromancer,121,3121,True,1490,4831,66659,image,1230
+,Gosu,,,,False,,,,,
+AftershockUnitedPrime,ilikebigcuts,Crusader,125,3161,True,1160,4994,59965,image,1100
+AftershockUnitedGold,FatherGascoigne,Wizard,118,2851,True,650,4499,52429,image,845
+AftershockUnitedSilver,Monknoriss,Monk,119,2629,True,450,4056,49755,image,865
+AftershockUnitedGold,Entune,Wizard,122,2697,True,405,3922,47351,image,950
+AftershockUnitedPrime,Kazuto,Barbarian,118,2933,True,1350,5554,63805,image,840
+AftershockUnitedGold,Piffpuffboy,Demon Hunter,122,3053,True,1545,5682,64193,image,840
+AftershockUnitedPrime,Emiskowi,Barbarian,125,3077,True,970,4747,58829,image,1070
+AftershockUnitedSilver,Nicodemus,Necromancer,118,2615,True,570,4645,49480,image,830
+AftershockUnitedPrime,HolyForce,Monk,122,3350,True,2530,6896,82506,image,885
+AftershockUnitedPrime,Diabolic,Crusader,119,2851,True,867,4658,56217,image,745
+AftershockUnitedPrime,Ixl,Crusader,117,2672,True,890,4044,57304,image,880
+AftershockUnitedGold,LightAshX,Crusader,121,3124,True,1760,6146,71010,image,845
+,Savage,,,,False,,,,,
+AftershockUnitedSilver,OctaviaRozlyn,Necromancer,106,2142,True,300,3318,43385,image,970
+AftershockUnitedGold,Vainsoul,Wizard,124,3038,True,1298,5318,66883,image,880
+AftershockUnitedGold,PandaPoe,Wizard,12,2806,True,480,4835,50742,image,655
+AftershockUnitedPrime,Lazzy,Crusader,121,2929,True,1508,5192,65207,image,1055
+AftershockUnitedSilver,Olenna,Demon Hunter,119,2768,True,944,4774,53836,image,905
+AftershockUnitedGold,Matikss,Monk,121,2881,True,1025,5335,59266,image,870
+AftershockUnitedGold,Xiushimi,Wizard,123,3374,True,2510,7306,75243,image,795
+,Amaren,,,,False,,,,,
+AftershockUnitedSilver,Katastrofik,Monk,106,1921,True,390,3768,43580,image,680
+AftershockUnitedPrime,Dragn,Crusader,111,2468,True,715,4222,56335,image,625
+,Skarlet,,,,False,,,,,
+AftershockUnitedGold,Uro,Barbarian,125,3012,True,1103,5316,56569,image,970
+AftershockUnitedGold,Turlesmash,Barbarian,118,2859,True,1240,4575,59704,image,820
+AftershockUnitedGold,Agagydal,Wizard,12,2995,True,1480,5104,57231,image,895
+AftershockUnitedSilver,Rurank,Monk,112,1984,True,375,3870,38225,image,790
+AftershockUnitedSilver,Bexley,Crusader,103,1784,True,530,3990,44236,image,775
+,CaesarTownTC,,,,False,,,,,
+AftershockUnitedPrime,Aquanoob,Monk,119,2731,True,435,4132,54009,image,810
+AftershockUnitedGold,Melinco,Crusader,124,3052,True,785,4593,54344,image,1025
+AftershockUnitedGold,EvilDot,Necromancer,118,2719,True,585,3874,54869,image,765
+AftershockUnitedPrime,Hoegaarden,Necromancer,117,2761,True,330,4034,46137,image,705
+AftershockUnitedSilver,Chockwave,Demon Hunter,117,2534,True,360,3716,46673,image,760
+AftershockUnitedPrime,TakedownJC,Wizard,115,2565,True,733,4113,54947,image,680
+AftershockUnitedPrime,Worship,Monk,12,2754,True,450,4468,57801,image,815
+AftershockUnitedPrime,Alivianna,Monk,103,2323,True,1010,4683,53364,image,675
+AftershockUnitedSilver,Daniel,Demon Hunter,113,2586,True,1040,4612,55390,image,755
+AftershockUnitedSilver,Hezzy,Barbarian,115,2622,True,480,4105,41989,image,755
+AftershockUnitedPrime,Maleja,Necromancer,12,3504,True,3030,7305,86685,image,795
+AftershockUnitedPrime,Adalaina,Demon Hunter,114,2720,True,615,4972,51207,image,330
+AftershockUnitedPrime,Tayliam,Necromancer,112,2445,True,330,3859,45763,image,610
+AftershockUnitedPrime,Zendor,Wizard,121,2821,True,590,3755,49612,image,810
+AftershockUnitedSilver,Zavala,Crusader,10,2133,True,435,3577,50774,image,730
+AftershockUnitedSilver,Sats,Demon Hunter,108,2210,True,330,3615,45442,image,765
+AftershockUnitedGold,Rad,Demon Hunter,122,2857,True,450,3549,52972,image,845
+AftershockUnitedGold,Mike,Necromancer,113,2329,True,390,4101,50240,image,760
+AftershockUnitedPrime,Kero,Necromancer,106,2257,True,440,3974,41781,image,500
+AftershockUnitedSilver,Deathboss,Barbarian,112,1903,True,315,3749,37266,image,740
+AftershockUnitedSilver,FuryExodus,Monk,122,2116,True,375,3773,45876,image,840
+AftershockUnitedGold,Volt,Demon Hunter,117,2551,True,558,4170,275772,image,740
+,Jrod007,,,,False,,,,,
+AftershockUnitedGold,Undertow,Crusader,125,3165,True,1452,5588,67802,image,790
+AftershockUnitedPrime,Mydrunkenmonkey,Barbarian,118,2749,True,1020,4054,61341,image,615
+AftershockUnitedGold,LoomisJeep,Barbarian,112,3250,True,2370,6360,77908,image,625
+,Fevimana,,,,False,,,,,
+,NastyDoc,,,,False,,,,,
+AftershockUnitedSilver,WizOnU,Wizard,112,2093,True,375,3611,46703,image,750
+AftershockUnitedPrime,MolonLabe,Crusader,117,2913,True,1320,5066,62292,image,755
+AftershockUnitedGold,bammersbaby,Wizard,116,2868,True,1084,5340,52425,image,835
+AftershockUnitedGold,Guchi33,Necromancer,121,2783,True,920,4088,54743,image,760
+,Whirly,,,,False,,,,,
+AftershockUnitedPrime,Praedictum,Demon Hunter,119,3317,True,2670,6543,81104,image,755
+AftershockUnitedPrime,Drago2theAussie,Crusader,12,2901,True,1550,5476,67776,image,805
+AftershockUnitedSilver,Carman,Necromancer,122,2647,True,590,4868,50192,image,780
+AftershockUnitedSilver,GuttedCatcher,Demon Hunter,116,2472,True,400,4029,47218,image,670
+AftershockUnitedSilver,Magd,Necromancer,103,1524,True,330,3236,43567,image,720
+AftershockUnitedGold,Dunning,Necromancer,127,3020,True,540,4476,51545,image,740
+AftershockUnitedPrime,keeperOfSouls,Necromancer,106,2257,True,440,3974,41781,image,500
+AftershockUnitedSilver,xSUPRAx,Demon Hunter,113,2081,True,684,4385,44982,image,740
+AftershockUnitedPrime,Sarista,Monk,107,2544,True,575,4412,53533,image,540
+AftershockUnitedSilver,DigitalExile,Necromancer,124,2681,True,390,4332,44843,image,740
+,AloyseGaming,,,,False,,,,,
+AftershockUnitedGold,Olderbird,Barbarian,105,2836,True,2460,6364,75813,image,785
+AftershockUnitedPrime,Ki11aGoaT,Barbarian,118,2471,True,830,4042,58469,image,775
+AftershockUnitedSilver,Side,Monk,110,2610,True,540,3908,52643,image,530
+AftershockUnitedSilver,ShoNough,Monk,12,2707,True,630,3716,52158,image,765
+AftershockUnitedPrime,Kalisus,Demon Hunter,114,3294,True,2370,6146,82608,image,800
+AftershockUnitedGold,Risenhero,Necromancer,119,2516,True,375,3440,46349,image,720
+AftershockUnitedGold,Thor777,Crusader,124,2779,True,915,4735,57761,image,865
+AftershockUnitedGold,ZaPPeR,Demon Hunter,116,2799,True,1130,5407,56350,image,615
+AftershockUnitedGold,Britianna,Demon Hunter,119,2247,True,660,4142,51670,image,740
+,Zienox,,,,False,,,,,
+AftershockUnitedGold,DaBink,Barbarian,115,2981,True,2000,6270,68169,image,720
+AftershockUnitedSilver,HorniPolice,Demon Hunter,121,2671,True,510,4725,53274,image,740
+,DeltaKilo,,,,False,,,,,
+AftershockUnitedSilver,Seth9352,Barbarian,117,2734,True,870,4011,60406,image,720
+AftershockUnitedGold,Garvin225,Monk,119,2866,True,900,5441,57762,image,600
+AftershockUnitedSilver,Darkvor,Necromancer,115,2476,True,1205,5078,51560,image,700
+,BadAssUther,,,,False,,,,,
+AftershockUnitedSilver,Suteki,Necromancer,113,2519,True,435,3710,52737,image,460
+AftershockUnitedGold,XAFYwiz,Wizard,12,2713,True,465,4391,48911,image,755
+AftershockUnitedPrime,Zuuelilo,Necromancer,122,3230,True,2660,6672,78912,image,870
+AftershockUnitedPrime,Gerlad,Crusader,107,2551,True,1130,4679,59206,image,795
+AftershockUnitedPrime,Carzik,Wizard,118,2884,True,1272,5241,56623,image,660
+AftershockUnitedSilver,Mano,Monk,117,2584,True,440,3890,47857,image,1070
+AftershockUnitedGold,orkiabarb,Barbarian,116,2500,True,1270,4995,59804,image,740
+AftershockUnitedGold,Psyanyde,Necromancer,114,2451,True,660,4465,53941,image,600
+AftershockUnitedGold,Hops,Necromancer,112,2378,True,820,4496,53674,image,550
+AftershockUnitedGold,xDEUSVULTx,Crusader,101,2242,True,680,3947,53746,image,770
+AftershockUnitedPrime,Kregy,Barbarian,116,2625,True,330,3945,51860,image,795
+AftershockUnitedSilver,Middro,Crusader,115,2561,True,360,3692,48025,image,765
+AftershockUnitedPrime,Potestas,Necromancer,115,3007,True,1650,5188,66461,image,410
+AftershockUnitedGold,Sliup,Monk,113,2413,True,525,4367,51870,image,610
+AftershockUnitedGold,ST8S1DEK1LL,Necromancer,126,2829,True,1140,5025,56260,image,790
+AftershockUnitedPrime,JTOWN,Necromancer,115,2280,True,698,3717,54226,image,745
+AftershockUnitedPrime,HailMrSatan,Barbarian,118,2668,True,600,4734,51636,image,740
+AftershockUnitedGold,Wulph,Demon Hunter,114,2757,True,1194,5036,59507,image,630
+AftershockUnitedGold,Trixel187,Necromancer,121,2980,True,750,4758,50832,image,830
+AftershockUnitedPrime,Shadowclaw,Necromancer,116,2587,True,610,4379,50606,image,780
+AftershockUnitedGold,Dikdik,Barbarian,118,2605,True,330,4060,53571,image,730
+AftershockUnitedGold,Zoser,Necromancer,118,2655,True,345,3808,48078,image,690
+AftershockUnitedSilver,Ellasis,Necromancer,106,1865,True,465,4011,40276,image,610
+AftershockUnitedPrime,LadyAnarchy,Necromancer,112,2635,True,405,4058,50991,image,500
+,x211187x,,,,False,,,,,
+AftershockUnitedGold,Animatronio,Barbarian,119,3129,True,2130,6548,78793,image,700
+AftershockUnitedSilver,Varadin,Wizard,114,1992,True,455,3891,41886,image,720
+AftershockUnitedSilver,Solara,Monk,106,1883,True,465,3652,47576,image,720
+AftershockUnitedSilver,Nasher27,Wizard,89,1289,True,300,3193,42462,image,740
+,Jaxslayer,,,,False,,,,,
+AftershockUnitedSilver,Deizel,Monk,105,1909,True,815,4275,48205,image,440
+AftershockUnitedGold,ChillyMcFreeze,Crusader,112,2500,True,450,3829,51691,image,680
+AftershockUnitedSilver,BlackSoul,Necromancer,111,2065,True,270,3273,44822,image,590
+AftershockUnitedPrime,Taiyo,Demon Hunter,108,2511,True,898,4205,51507,image,760
+AftershockUnitedPrime,XTREME,Monk,113,2668,True,889,4799,56685,image,635
+AftershockUnitedGold,Jebe90,Necromancer,10,2349,True,620,3975,53987,image,690
+AftershockUnitedPrime,UltimaDeath,Demon Hunter,112,2606,True,870,4324,53255,image,530
+AftershockUnitedSilver,TBONE21CRU,Crusader,114,1918,True,360,3860,42536,image,720
+AftershockUnitedPrime,Zuizide,Monk,116,2560,True,555,4396,51694,image,730
+AftershockUnitedGold,DragnGrind,Necromancer,126,3077,True,1114,5569,58544,image,785
+AftershockUnitedPrime,Jaihan,Necromancer,117,2529,True,345,3954,43012,image,620
+,GRINREAPER,,,,False,,,,,
+AftershockUnitedGold,Grot,Crusader,117,2655,True,420,3132,52037,image,900
+AftershockUnitedGold,Bone,Barbarian,122,2639,True,455,3879,45272,image,760
+AftershockUnitedGold,EarthShokk,Demon Hunter,124,2614,True,595,4415,53642,image,570
+AftershockUnitedPrime,MDS,Crusader,118,2707,True,934,5238,56808,image,730
+AftershockUnitedGold,Karbon,Demon Hunter,111,2472,True,450,4214,47128,image,395
+AftershockUnitedGold,Keileigh,Demon Hunter,12,2752,True,590,4301,45082,image,745
+AftershockUnitedGold,Pandami,Wizard,95,2094,True,410,3926,46028,image,420
+AftershockUnitedGold,Wolfymelo,Demon Hunter,112,2645,True,1160,4541,58885,image,500
+AftershockUnitedPrime,Josiah,Monk,127,3097,True,990,4893,52015,image,600
+AftershockUnitedSilver,Onyxgem,Barbarian,97,1646,True,255,3534,38109,image,600
+AftershockUnitedGold,MaxRiptinNecro,Necromancer,103,1730,True,600,4063,43095,image,740
+,B1tchPLZ,,,,False,,,,,
+AftershockUnitedGold,Drogor,Wizard,113,2418,True,570,4296,45280,image,740
+AftershockUnitedSilver,Lugh,Monk,118,2717,True,495,3432,54529,image,755
+AftershockUnitedSilver,Arjun,Monk,110,2532,True,565,4776,50521,image,370
+AftershockUnitedGold,WhoIsAbk,Necromancer,111,2429,True,1050,4277,55143,image,610
+AftershockUnitedPrime,RoachKiN,Necromancer,116,2663,True,465,3976,51085,image,680
+AftershockUnitedGold,Bingus,Crusader,114,2679,True,1546,5573,64248,image,770
+AftershockUnitedGold,Hughes2020,Crusader,106,2007,True,525,3681,52270,image,740
+AftershockUnitedPrime,Ragna,Wizard,115,2761,True,1250,4930,55979,image,600
+,Phantasy,,,,False,,,,,
+AftershockUnitedGold,Rawen,Crusader,12,2654,True,330,3658,52655,image,770
+AftershockUnitedPrime,Nalianth,Barbarian,118,3037,True,1030,4816,60203,image,585
+AftershockUnitedPrime,MazeLover95,Demon Hunter,101,2296,True,390,3941,41887,image,500
+AftershockUnitedPrime,blames,Wizard,114,2786,True,1110,5030,56530,image,720
+AftershockUnitedGold,JerkaJihad,Necromancer,128,3114,True,1315,5264,54861,image,790
+AftershockUnitedPrime,Ktulu,Crusader,119,2981,True,1451,5666,66330,image,910
+AftershockUnitedGold,Deadlysinz,Barbarian,108,2300,True,480,3834,48972,image,740
+AftershockUnitedPrime,usma6100,Demon Hunter,118,2761,True,560,3704,54308,image,870
+AftershockUnitedSilver,Evernurse,Wizard,117,3206,True,2500,6499,70817,image,505
+AftershockUnitedPrime,Deadshadows,Wizard,121,2980,True,1350,5277,60148,image,955
+,FkrGayWiz,,,,False,,,,,
+,DrLazar,,,,False,,,,,
+AftershockUnitedPrime,Eriksson,Barbarian,111,2415,True,625,4294,54117,image,590
+,thesnelley,,,,False,,,,,
+AftershockUnitedPrime,EndlessChaos,Demon Hunter,122,2921,True,1240,5138,58315,image,645
+AftershockUnitedGold,Kronicbud,Demon Hunter,102,2379,True,533,4339,49285,image,675
+AftershockUnitedGold,JerryQ,Demon Hunter,113,1866,True,375,3699,43435,image,740
+AftershockUnitedSilver,Raul,Barbarian,118,2647,True,900,4626,53871,image,830
+AftershockUnitedPrime,Tenibray,Barbarian,10,2566,True,1112,4606,59087,image,710
+AftershockUnitedGold,Satchismo,Necromancer,118,2712,True,650,4517,58038,image,550
+,DosDueces,,,,False,,,,,
+AftershockUnitedPrime,CalebXIII,Barbarian,111,2179,True,465,4028,45023,image,440
+AftershockUnitedPrime,Rasta,Necromancer,119,2734,True,605,4040,52707,image,660
+AftershockUnitedGold,Nooch,Barbarian,105,2194,True,959,4440,56056,image,600
+AftershockUnitedPrime,Mjolnir,Crusader,12,3025,True,1242,4995,60930,image,675
+AftershockUnitedGold,GhostRider91,Crusader,10,2324,True,540,3683,54096,image,800
+AftershockUnitedGold,SpicyNoodles,Demon Hunter,101,2095,True,450,3625,45890,image,520
+AftershockUnitedPrime,Cayzi,Wizard,111,2467,True,900,4645,53788,image,760
+AftershockUnitedGold,Zohbot,Monk,116,2777,True,1040,5003,59522,image,685
+AftershockUnitedSilver,CruncySocks,Wizard,108,2091,True,420,3740,45744,image,630
+AftershockUnitedGold,REAPER420,Wizard,119,2618,True,405,3477,46529,image,765
+AftershockUnitedPrime,ValDizzar,Wizard,125,2947,True,1620,4989,65153,image,670
+AftershockUnitedGold,Marik,Demon Hunter,119,2730,True,850,4554,53127,image,720
+,l3oner,,,,False,,,,,
+,ULTiMFiNGMATiCUS,,,,False,,,,,
+AftershockUnitedPrime,Xelor,Wizard,117,2862,True,930,5118,53248,image,660
+AftershockUnitedPrime,Pretorian,Crusader,118,2670,True,420,3808,54895,image,730
+AftershockUnitedPrime,ScrumpBuster,Necromancer,117,2667,True,880,4628,51943,image,675
+AftershockUnitedPrime,NovaStars,Demon Hunter,117,2591,True,485,4101,50320,image,615
+AftershockUnitedSilver,MadmadamMim,Necromancer,85,1151,True,210,3052,36804,image,380
+AftershockUnitedPrime,DrMatt,Necromancer,10,2095,True,692,3763,50105,image,490
+AftershockUnitedGold,Vye,Necromancer,108,2486,True,390,3428,49649,image,565
+AftershockUnitedGold,Berouth,Demon Hunter,117,2370,True,630,4575,55004,image,675
+AftershockUnitedPrime,Blacklizard,Crusader,121,2750,True,1085,4904,56626,image,400
+AftershockUnitedPrime,Orbs,Monk,117,2733,True,420,3434,48762,image,725
+AftershockUnitedSilver,Signs,Demon Hunter,111,2196,True,1070,4814,46426,image,550
+,WG,,,,False,,,,,
+AftershockUnitedGold,DMaestro,Demon Hunter,122,2910,True,1030,4745,64781,image,660
+AftershockUnitedPrime,Havocqq,Monk,121,2835,True,1110,4747,61345,image,760
+AftershockUnitedGold,MrWulf,Necromancer,99,2310,True,525,3690,49655,image,350
+AftershockUnitedSilver,SidesChick123,Necromancer,101,2208,True,285,3548,46479,image,360
+AftershockUnitedSilver,DL,Demon Hunter,116,2714,True,971,4619,49199,image,600
+AftershockUnitedSilver,Searim,Necromancer,101,1852,True,360,3291,39979,image,260
+AftershockUnitedGold,Ducat,Demon Hunter,123,3284,True,2231,6579,76725,image,785
+AftershockUnitedPrime,Zip,Wizard,112,2765,True,1300,5025,60560,image,520
+AftershockUnitedGold,Halidis,Demon Hunter,110,2569,True,560,3717,51514,image,640
+AftershockUnitedPrime,RedHand,Demon Hunter,107,2478,True,1570,5447,63131,image,655
+AftershockUnitedGold,AnkleBreaker,Crusader,116,2604,True,1470,5216,57779,image,530
+AftershockUnitedSilver,Bigbonar,Necromancer,115,2348,True,600,4167,46718,image,740
+AftershockUnitedSilver,BKLTD,Barbarian,83,1610,True,360,3877,40405,image,380
+AftershockUnitedSilver,Redmeda,Barbarian,116,2592,True,740,5032,54091,image,445
+AftershockUnitedGold,Allintime,Demon Hunter,114,2778,True,1644,5422,64334,image,700
+,Rahnia,,,,False,,,,,
+,Statics,,,,False,,,,,
+AftershockUnitedGold,Elduker,Necromancer,119,2992,True,1830,6165,63007,image,760
+AftershockUnitedPrime,MetalTip,Demon Hunter,112,2698,True,993,4808,54940,image,580
+AftershockUnitedGold,Jaspin,Wizard,107,2365,True,420,4162,45945,image,695
+AftershockUnitedGold,Pepper23,Monk,114,2285,True,805,4019,56246,image,535
+AftershockUnitedSilver,Tizzy,Barbarian,111,2363,True,390,3987,50602,image,710
+AftershockUnitedPrime,Laruhtard,Wizard,117,2210,True,780,4205,53188,image,730
+AftershockUnitedGold,Rottencorpse,Necromancer,117,2657,True,739,4671,54100,image,690
+AftershockUnitedSilver,Kronos,Barbarian,10,1854,True,345,3453,49405,image,660
+AftershockUnitedGold,Cruz,Crusader,119,2277,True,405,4046,53188,image,520
+AftershockUnitedPrime,Stalkzor,Crusader,112,2453,True,435,3955,50035,image,330
+AftershockUnitedSilver,Audra,Necromancer,113,2629,True,1230,5024,53288,image,510
+AftershockUnitedPrime,Animal,Crusader,116,2614,True,465,4059,50006,image,540
+AftershockUnitedPrime,Ulynelm,Crusader,106,2404,True,995,4458,55287,image,520
+,GrandLight,,,,False,,,,,
+AftershockUnitedGold,Nimious,Wizard,114,2968,True,1700,5729,58242,image,730
+AftershockUnitedPrime,Toadskii,Crusader,105,2256,True,790,4503,48205,image,710
+AftershockUnitedGold,Seigie,Barbarian,117,2810,True,1180,5103,59239,image,320
+AftershockUnitedSilver,Blackstaph,Necromancer,103,1783,True,375,3646,37025,image,540
+AftershockUnitedPrime,DanHeilman,Necromancer,112,2633,True,1106,4910,52356,image,280
+AftershockUnitedSilver,ThermicSea,Necromancer,86,1559,True,225,3309,45548,image,500
+AftershockUnitedPrime,Repo,Demon Hunter,93,1759,True,395,3899,41877,image,310
+AftershockUnitedGold,ZuzuGametime,Demon Hunter,115,2445,True,610,4870,47810,image,280
+,Smoggy,,,,False,,,,,
+AftershockUnitedGold,KnightFighter,Demon Hunter,113,2344,True,430,3964,42857,image,545
+AftershockUnitedGold,TJB220,Barbarian,12,2534,True,1490,5074,65932,image,745
+AftershockUnitedGold,Jankadank,Demon Hunter,114,2924,True,2140,5813,79308,image,730
+AftershockUnitedPrime,BabaVoss,Barbarian,104,2126,True,1170,4768,59859,image,390
+AftershockUnitedSilver,MSapient,Wizard,88,1235,True,360,3268,43394,image,340
+AftershockUnitedSilver,Rapz,Demon Hunter,95,1797,True,495,3694,48410,image,670
+AftershockUnitedPrime,Machineslave,Barbarian,10,2418,True,925,4598,56949,image,740
+AftershockUnitedSilver,Borghild,Demon Hunter,113,1951,True,405,3249,45083,image,220
+,ArachangelofDeath,,,,False,,,,,
+AftershockUnitedGold,Monoxide,Demon Hunter,103,2422,True,1000,4877,50007,image,750
+AftershockUnitedSilver,Sp4rt4cus,Crusader,92,1562,True,315,3362,43959,image,255
+AftershockUnitedGold,Romme,Barbarian,111,2486,True,495,4398,54232,image,390
+AftershockUnitedPrime,Amethyste,Necromancer,104,2583,True,450,3524,42784,image,160
+AftershockUnitedPrime,Lucky,Necromancer,72,1846,True,495,3676,44022,image,80
+AftershockUnitedPrime,Ansgar,Necromancer,117,2602,True,750,4348,43679,image,260
+AftershockUnitedSilver,Excrementus,Necromancer,96,1434,True,345,3599,44292,image,80
+AftershockUnitedSilver,Ringlord,Necromancer,89,1849,True,390,3942,40398,image,80
+AftershockUnitedSilver,Bubblez,Necromancer,68,1290,True,440,3255,40507,image,240
+AftershockUnitedGold,Vudoo,Crusader,117,2902,True,1100,5154,58698,image,620
+AftershockUnitedGold,Deanuccus,Demon Hunter,113,2232,True,480,4058,48663,image,460
+AftershockUnitedPrime,Witchboots1215,Necromancer,110,2338,True,880,4639,51526,image,280
+AftershockUnitedGold,KennyPowers,Monk,116,3094,True,2540,6056,78605,image,350
+AftershockUnitedPrime,BODO,Necromancer,103,2308,True,330,3370,41126,image,610
+AftershockUnitedGold,Trishthedish,Necromancer,113,2849,True,1185,4509,58881,image,330
+AftershockUnitedSilver,Yomama,Demon Hunter,85,1732,True,300,3745,37736,image,150
+,Belesmain,,,,False,,,,,
+AftershockUnitedPrime,eSportBully,Crusader,111,2790,True,735,4506,50564,image,
+AftershockUnitedSilver,Aldwulf,Monk,105,2586,True,967,4228,49632,image,
+AftershockUnitedPrime,ArabK1ng,Necromancer,97,2480,True,905,4544,46242,image,
+AftershockUnitedGold,AteYoBaby,Necromancer,93,2571,True,1083,4884,52025,image,
+AftershockUnitedSilver,BunoRex,Demon Hunter,74,1467,True,330,3208,34950,image,
+AftershockUnitedSilver,DanaScully,Crusader,95,2153,True,375,3876,45208,image,
+AftershockUnitedGold,Denaari,Wizard,89,2253,True,1421,4963,59197,image,
+,Fuzzynutz,,,,False,,,,,
+AftershockUnitedGold,HP,Demon Hunter,105,2301,True,625,4723,47008,image,
+AftershockUnitedGold,JediKnight,Crusader,97,2254,True,1140,4578,60183,image,
+,Kaijin,,,,False,,,,,
+AftershockUnitedPrime,Martai,Monk,95,2469,True,1473,4711,56784,image,
+AftershockUnitedSilver,MoonlightStar,Demon Hunter,99,2074,True,330,3179,43109,image,
+,MrPenguin,,,,False,,,,,
+AftershockUnitedSilver,MrTokyo,Barbarian,108,2545,True,990,4775,56688,image,140
+AftershockUnitedSilver,Outlawz,Crusader,84,1649,True,285,2962,37876,image,
+AftershockUnitedSilver,RonChee,Wizard,115,2164,True,450,3854,44806,image,350
+AftershockUnitedPrime,SAUCYGAMINGYT,Wizard,101,2586,True,880,3618,47235,image,160
+AftershockUnitedPrime,Saby,Demon Hunter,98,1913,True,270,3687,43385,image,230
+,ShaggyGod,,,,False,,,,,
+,Pablo,,,,False,,,,,
