@@ -37,6 +37,10 @@ membersCollection = list(db.collection(u'members').stream())
 members_dict = list(map(lambda x: x.to_dict(), membersCollection))
 membersDF = pd.DataFrame(members_dict)
 
+
+st.set_page_config(layout='wide')
+
+
 col1, col2, col3, col4 = st.columns(4)
 
 with col1:
